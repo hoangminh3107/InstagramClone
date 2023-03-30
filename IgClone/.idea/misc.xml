@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/button_bg.xml" value="0.1535" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/edt_bg.xml" value="0.1535" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/ic_heart.xml" value="0.18" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/ic_home.xml" value="0.1905" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/ic_like.xml" value="0.18" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/ic_person.xml" value="0.208" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/ic_save.xml" value="0.1905" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/drawable/send_draw.xml" value="0.1905" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_chat.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_chinh.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_comment.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_edit_profile.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_follower.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_login.xml" value="0.16576086956521738" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_main.xml" value="0.16576086956521738" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_main2.xml" value="0.16576086956521738" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_mess.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_option.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_post.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/activity_register.xml" value="0.16576086956521738" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/fragment_home.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/fragment_noti.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/fragment_post_detail.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/fragment_profile.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/fragment_search.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_comment.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_load.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_mess.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_noti.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_photo.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_post.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_recive.xml" value="0.264" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_send.xml" value="0.264" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_status.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_test.xml" value="0.22916666666666666" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/layout/item_user.xml" value="0.2223731884057971" />
+        <entry key="..\:/DuAn1/IgClone/app/src/main/res/menu/bottom_menu.xml" value="0.22916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
